@@ -1,0 +1,25 @@
+html {
+  box-sizing: border-box;
+}
+
+.container {
+  width: 800px;
+  margin-right: auto;
+  margin-left: auto;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.container .wrapper {
+  width: 200px;
+  min-width: 200px;
+  height: 200px;
+  min-height: 200px;
+  margin-right: 5px;
+}
+
+.container img {
+  width: 100%;
+}
