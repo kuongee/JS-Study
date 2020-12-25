@@ -9,3 +9,7 @@ scrollLeft는 스크롤된 영역이 왼쪽 가장자리에서부터 얼마나 �
 clientWidth는 보이는 영역만
 
 API는 thecatapi.com 사용
+
+
+https://jbee.io/web/optimize-scroll-event/
+http://sculove.github.io/blog/2018/01/18/javascriptflow/
