@@ -1,3 +1,4 @@
-# 자바스크립트 공부하기
+# 코드로 공부하기
 
-코드로 공부한 내용 정리
+JavaScript
+Project Setup
